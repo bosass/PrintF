@@ -1,1 +1,1 @@
-It prints the thing
+It writes the thing
